@@ -14,6 +14,7 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 Node,  MongoDB,  MongoAtlas
 
 ## Demo
+![Workout Tracker](https://user-images.githubusercontent.com/70453836/115329449-503c6600-a160-11eb-9f4b-cb939ab9c88e.gif)
 
 
 ## Deployment Link
